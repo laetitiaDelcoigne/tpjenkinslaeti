@@ -1,0 +1,4 @@
+#Wed Oct 27 14:24:03 GMT+01:00 2021
+module-resource*?\:checkstyle-suppressions.xml=D07EAFA6AAB77452D7089F382728851A6E3166E7
+module-resource*?\:checkstyle-xpath-suppressions.xml=887C5649B47A9441D437299BD17EF46C4D524277
+configuration*?=F8339E86F5BEEEFFCF1A97CAEC3A5829373E4286
